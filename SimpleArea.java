@@ -1,5 +1,5 @@
 
-public class SimpleArea {
+public class SimpleInterest {
 	
 	public static double principal=5000;
 	public static double rate=5;
@@ -18,3 +18,4 @@ public class SimpleArea {
 	}
 
 }
+
